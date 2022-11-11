@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sajjadjavazi
+- 👀 I’m interested in business and stuff like that
+- 🌱 I’m currently learning IT (Information Technology)
+- 📫 How to reach me : Sajjad.javazi.01@gmail.com
