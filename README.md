@@ -23,7 +23,7 @@ const SajjadJavazi = {
     mySkills: {
         frontEnd: {
 		  webdevelopment: ["HTML", "CSS", "JavaScript"]
-		  frameworks: ["React" , "bootstrap"],
+		  framework: ["React" , "bootstrap"],
         },
    },
 };
