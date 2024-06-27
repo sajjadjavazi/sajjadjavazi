@@ -15,7 +15,6 @@ const SajjadJavazi = {
     },
     language: ["javaScript"], // React.js,
     socials : {
-        personalWebsite : "ali-nazari.netlify.app",
         linkedin : "linkedin.com/in/sajjadjavazi",
         gmail : "sajjad.javazi.01@gmail.com@gmail.com",
         github: "it's just here man!"
