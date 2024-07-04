@@ -13,7 +13,7 @@ const SajjadJavazi = {
       pronouns: "He" | "Him",
       hobbies: "loading ...",
     },
-    language: ["javaScript"], // React.js,
+    language: {"javaScript"}, // React.js,
     socials : {
         linkedin : "linkedin.com/in/sajjadjavazi",
         gmail : "sajjad.javazi.01@gmail.com@gmail.com",
