@@ -5,26 +5,3 @@
 
 
 
-
-```javascript
-const SajjadJavazi = {
-    aboutMe: {
-      name: "Sajjad Javazi",
-      pronouns: "He" | "Him",
-      hobbies: "loading ...",
-    },
-    language:["javaScript"], // React.js
-    socials : {
-        linkedin : "linkedin.com/in/sajjadjavazi",
-        gmail : "sajjad.javazi.01@gmail.com@gmail.com",
-        github: "it's just here man!"
-    },
-    mySkills: {
-        frontEnd: {
-		  webdevelopment: ["HTML", "CSS", "JavaScript"],
-		  frameworks: ["React" , "Tailwind", "Bootstrap"]
-        }
-   }
-}
-```
-
