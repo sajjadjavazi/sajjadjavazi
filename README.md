@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajjad</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">An ardent front-end developer</h3>
 <h2>My skills:</h2> <br />
 <p align="left">
   <a href="https://skillicons.dev">
